@@ -1,6 +1,17 @@
 from PyQt5.QtWidgets import QWidget
 import json
 import os
+import sys
+
+
+def load_libs():  # 加载库文件
+    # 获取当前插件所在目录
+    plugin_dir = os.path.dirname(os.path.abspath(__file__))
+    libs_dir = os.path.join(plugin_dir, 'libs')
+
+    # 将 libs 目录插入到 sys.path 的最前端
+    if libs_dir not in sys.path:
+        sys.path.insert(0, libs_dir)
 
 
 class PluginBase:  # 插件类
