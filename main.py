@@ -20,6 +20,7 @@ class Plugin(PluginBase):  # 插件类
         """
         当 Class Widgets启动时，将会执行此部分的代码
         """
+        print('Plugin Executed!')
 
     def update(self, cw_contexts):  # 自动更新部分
         """
