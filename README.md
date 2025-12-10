@@ -1,14 +1,18 @@
 > [!NOTE]
-> 欢迎使用本插件模板，该模板可以帮助你快速创建一个新的 Class Widgets 插件项目。
+> 欢迎使用本插件模板，该模板可以帮助你快速创建一个新的 Class Widgets 1 插件项目。
 > 此Readme文件是一个示例，可按需进行修改。
 > 
 > Tip: 若希望下列的徽标正常显示的话可以用替换将"repo-owner/repo-name"替换为你的仓库名。
 > 
 > 可在[此处](https://www.yuque.com/rinlit/cw-docs-dev)查看教程。
 
+> [!TIP]
+> 若你需要为 Class Widgets 2 开发插件，你应该前往 [ Class Widgets SDK](https://github.com/Class-Widgets/class-widgets-sdk)
+> 
+
 <div align="center">
 <img src="icon.png" alt="插件图标" width="18%">
-<h1>Class Widgets 插件模板</h1>
+<h1>Class Widgets 1 插件模板</h1>
 
 
 [![星标](https://img.shields.io/github/stars/repo-owner/repo-name?style=for-the-badge&color=orange&label=星标)](https://github.com/repo-owner/repo-name)
@@ -19,7 +23,7 @@
 
 ## 介绍
 
-本项目是一个 Class Widgets 插件模板，可以帮助你快速创建一个新的 Class Widgets 插件项目。
+本项目是一个 Class Widgets 1 插件模板，可以帮助你快速创建一个新的 Class Widgets 1 插件项目。
 
 ### 截图
 ![截图1](img/img.png)
